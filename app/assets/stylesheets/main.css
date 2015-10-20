@@ -77,3 +77,10 @@ font-size:24px;
 margin-bottom:13px;
 font-size:15px;
 }
+
+.pac-container:after {
+    /* Disclaimer: not needed to show 'powered by Google' if also a Google Map is shown */
+
+    background-image: none !important;
+    height: 0px;
+}
