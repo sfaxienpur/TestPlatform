@@ -15,3 +15,6 @@
 //= require turbolinks
 //= require_tree .
 //= require bootstrap.min
+//= require jquery
+//= require jquery.leanModal.min
+//= require jquery-1.11.0.min
